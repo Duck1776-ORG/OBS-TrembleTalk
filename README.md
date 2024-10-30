@@ -26,22 +26,22 @@ ___
 
 ![Select Tools](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image.png)
 ![Select Scripts](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-1.png)
-![Press the Plus Icon](image-2.png)
-![Open py file](image-3.png)
+![Press the Plus Icon](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-2.png)
+![Open py file](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-3.png)
 
 <br/><br/><br/>
 
 > :warning: **Warning:** Point OBS to your Python.exe folder location**
 
-![Go to Python Settings](image-4.png)
-![Brows to Python Path](image-5.png)
+![Go to Python Settings](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-4.png)
+![Brows to Python Path](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-5.png)
 
 
 <br/><br/><br/>
 
 ### **On the main OBS interface, in Source, add a Media Source, and browse for your video**
 
-![Add Media Source](image-6.png)
+![Add Media Source](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-6.png)
 
 <br/><br/><br/>
 
@@ -53,13 +53,13 @@ You can set up to 4 Scenes in the Script to run only when the active Scene is ac
 > :warning: **Warning:** THIS IS CASE SENSITIVE
 
 
-![Fill in fields](image-7.png)
+![Fill in fields](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-7.png)
 
 <br/><br/><br/>
 
 **Refresh the Script - Script will run once it can compute audio** [^1]
 
-![Refresh Python](image-8.png)
+![Refresh Python](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-8.png)
 
 <br/><br/><br/>
 
