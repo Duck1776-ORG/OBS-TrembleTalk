@@ -73,5 +73,5 @@ You can set up to 4 Scenes in the Script to run only when the active Scene is ac
 <br/><br/>
 
 # NOTES
----
+
 [^1]: **Script will run once it can compute audio** - OBS TrembleTalk uses [PyAudio](https://pypi.org/project/PyAudio/) to detect input audio streams and the dB of that audio. No configuration needed.
