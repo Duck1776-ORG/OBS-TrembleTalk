@@ -35,7 +35,7 @@ pip install numpy
 
 <br/><br/>
 
-> :warning: **Warning:** **Point OBS to your Python.exe folder location**
+### **Point OBS to your Python.exe folder location**
 
 <br/><br/>
 
