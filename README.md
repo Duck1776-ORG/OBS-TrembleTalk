@@ -24,7 +24,7 @@ ___
 
 ### Add OBS TrembleTalk to OBS Scripts
 
-![Select Tools](image.png)
+![Select Tools](.../img/image.png)
 ![Select Scripts](image-1.png)
 ![Press the Plus Icon](image-2.png)
 ![Open py file](image-3.png)
