@@ -29,39 +29,44 @@ ___
 ![Press the Plus Icon](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-2.png)
 ![Open py file](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-3.png)
 
-<br/><br/><br/>
+<br/><br/>
 
-> :warning: **Warning:** Point OBS to your Python.exe folder location**
+> :warning: **Warning:** **Point OBS to your Python.exe folder location**
+
+<br/><br/>
 
 ![Go to Python Settings](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-4.png)
 ![Brows to Python Path](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-5.png)
 
 
-<br/><br/><br/>
+<br/><br/>
 
 ### **On the main OBS interface, in Source, add a Media Source, and browse for your video**
 
+<br/>
+
 ![Add Media Source](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-6.png)
 
-<br/><br/><br/>
+<br/><br/>
 
 ### **Whatever you name your Media Source, as it shows in the Sources area, enter that name into the Media Source field for the OBS TrembleTalk Script.**
 
 You can set up to 4 Scenes in the Script to run only when the active Scene is active. Names must match.
 
 
-> :warning: **Warning:** THIS IS CASE SENSITIVE
+> :warning: **Warning:** **THIS IS CASE SENSITIVE**
 
+<br/>
 
 ![Fill in fields](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-7.png)
 
-<br/><br/><br/>
+<br/><br/>
 
 **Refresh the Script - Script will run once it can compute audio** [^1]
 
 ![Refresh Python](https://github.com/Duck1776/OBS-TrembleTalk/blob/main/img/image-8.png)
 
-<br/><br/><br/>
+<br/><br/>
 
 # NOTES
 ---
