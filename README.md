@@ -4,7 +4,7 @@
 - Built using Python 3.11.9
 - Ran on OBS Studio 30.2.3
 <br/><br/><br/>
-___
+
 # How it works
 
 
@@ -12,14 +12,16 @@ ___
 - When silence is detected for more than .30 seconds, it stops the playback of Media Source and resets the timestamp to 0.
 - By default, Toggle Shake Effect is **OFF**. If you toggle Shake Effect to be ON, as the volume of your voice rises, so does the severity of the shake. The video will shake. Its great. 
 <br/><br/><br/>
-___
+
 # Required Imports
 ```bash
 pip install pyaudio
+```
+```bash
 pip install numpy
 ```
 <br/><br/><br/>
-___
+
 # How To Run OBS TrembleTalk in OBS Studio 30.2.3
 
 ### Add OBS TrembleTalk to OBS Scripts
