@@ -29,9 +29,11 @@ p = pyaudio.PyAudio()
 stream = None
 
 def script_description():
-    print("Made to fuck with people.")
+    print("Made for you.")
     print("Credit to Duck1776 | Clay | R3DCLAY")
     return """
+    CHRIST IS KING
+
     Python 3.11.9
     OBS Studio 30.2.3
 
